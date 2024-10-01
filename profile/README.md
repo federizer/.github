@@ -1,1 +1,1 @@
-Federizer's repositories have been moved to the [Cargomail](https://github.com/cargomail-org) organization.
+A reference implementation of an authorization-enhanced Internet mail architecture using the Internet mail federation protocol.
