@@ -1,1 +1,1 @@
-A reference implementation of an authorization-enhanced Internet mail architecture using the Internet mail federation protocol.
+A reference implementation of a novel Internet mail system built on OAuth 2.0 principles.
